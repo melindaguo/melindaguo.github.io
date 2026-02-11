@@ -3,27 +3,27 @@ p{
     blue;
 }
 body {
-    background: green;
+    background: rgb(75, 128, 75);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    text-align: center; color: blue
+    text-align: center; color: rgb(75, 75, 255)
 }
 h2 {
-    text-align: center; color: blue
+    text-align: center; color: rgb(75, 75, 255)
 }
 .about {
     text-align: center;
-    color: blue;
+    color: rgb(75, 75, 255);
 
 .projects {
-    color: blue;
+    color: rgb(75, 75, 255);
 }
 .left {
     text-align: left; 
 }
 .green {
-    color: green;
+    color: rgb(75, 128, 75);
 }
 .attention {
     font-weight: bold;
