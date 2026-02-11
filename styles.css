@@ -1,21 +1,21 @@
 p{
     text-align: center; color: 
-    red;
+    yellow;
 }
 body {
-    background: blue;
+    background: green;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color: green
+    text-align: center; color: yellow
 
 }
 .about {
     text-align: center;
-    color: blue;
+    color: yellow;
 }
 .projects {
-    background: #00b3d1;
+    background: green;
 }
 .left {
     text-align: left;
