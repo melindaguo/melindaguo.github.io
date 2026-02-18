@@ -17,6 +17,7 @@ h2 {
     color: rgb(75, 75, 255);
 
 .projects {
+    text-align: center;
     color: rgb(75, 75, 255);
 }
 .left {
@@ -27,4 +28,5 @@ h2 {
 }
 .attention {
     font-weight: bold;
+
 }
