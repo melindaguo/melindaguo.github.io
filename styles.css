@@ -1,21 +1,23 @@
-p{
-    text-align: center; color: 
-    blue;
+p {
+    text-align: center;
+    color: blue;
 }
 body {
     background: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    text-align: center; color: rgb(75, 75, 255)
+    text-align: center;
+    color: rgb(75, 75, 255);
 }
 h2 {
-    text-align: center; color: rgb(75, 75, 255)
+    text-align: center;
+    color: rgb(75, 75, 255);
 }
 .about {
     text-align: center;
     color: rgb(75, 75, 255);
-
+}                         
 .projects {
     text-align: center;
     color: rgb(75, 75, 255);
@@ -25,5 +27,4 @@ h2 {
 }
 .attention {
     font-weight: bold;
-
 }
