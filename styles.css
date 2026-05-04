@@ -43,10 +43,11 @@ img {
 }
 
 .project {
-    width: 200px;
+    width: 300px;
+    flex: 0 0 calc(33% - 20px);
 }
 
 iframe {
-    width: 200px;
+    width: 250px;
     height: 200px;
 }
